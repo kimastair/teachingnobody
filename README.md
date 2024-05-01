@@ -1,2 +1,2 @@
 # teachingnobody
-Blog for posts about teaching and learning AI
+Blog about teaching and learning AI
